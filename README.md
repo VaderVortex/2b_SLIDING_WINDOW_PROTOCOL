@@ -1,5 +1,7 @@
 # 1b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
 ## AIM
+To write a python program to perform sliding window protocol 
+
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
@@ -42,7 +44,8 @@
 
 
 ## OUPUT
-![image](https://github.com/user-attachments/assets/77e58614-37ad-44a9-bc4b-1b4c021a1441)
+![image](https://github.com/user-attachments/assets/0c016ad0-c792-48b6-8beb-17ceb99861a6)
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
